@@ -1,0 +1,5 @@
+used packages is 
+1. Axios 
+2.React-chartjs
+3.React-countup
+4 @material-ui/core- Like as bootstaps
