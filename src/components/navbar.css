@@ -1,0 +1,21 @@
+.nav {
+    background: black;
+    height: 70px;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .search-container{
+    padding:20px;
+    display: flex;
+    justify-content: center;
+    min-height: 20px;
+    
+  }
+  .search-btn{
+  background-color: rebeccapurple;
+  min-height: 20px;
+  color: whitesmoke;
+  }
