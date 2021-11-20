@@ -10,7 +10,7 @@
   font-size: 20px;
 }
 .main .tabs .tab {
-  background: #fff;
+  background: rgb(209, 80, 108);
   padding: 10px;
   margin-right: 13px;
   border-radius: 3px;
@@ -23,4 +23,7 @@
 .main .tabs .tab:hover {
   cursor: pointer;
   background: #e1e1e1;
+}
+.main .list{
+  margin: 0px;;
 }
