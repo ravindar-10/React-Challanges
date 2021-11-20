@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dr830691/React-Challanges/tree/main/covi_tracker/static/css/main.405aff16.chunk.css",
+    "main.js": "/dr830691/React-Challanges/tree/main/covi_tracker/static/js/main.918eb837.chunk.js",
+    "main.js.map": "/dr830691/React-Challanges/tree/main/covi_tracker/static/js/main.918eb837.chunk.js.map",
+    "runtime-main.js": "/dr830691/React-Challanges/tree/main/covi_tracker/static/js/runtime-main.bf82089b.js",
+    "runtime-main.js.map": "/dr830691/React-Challanges/tree/main/covi_tracker/static/js/runtime-main.bf82089b.js.map",
+    "static/js/2.9059bacd.chunk.js": "/dr830691/React-Challanges/tree/main/covi_tracker/static/js/2.9059bacd.chunk.js",
+    "static/js/2.9059bacd.chunk.js.map": "/dr830691/React-Challanges/tree/main/covi_tracker/static/js/2.9059bacd.chunk.js.map",
+    "static/js/3.abafa955.chunk.js": "/dr830691/React-Challanges/tree/main/covi_tracker/static/js/3.abafa955.chunk.js",
+    "static/js/3.abafa955.chunk.js.map": "/dr830691/React-Challanges/tree/main/covi_tracker/static/js/3.abafa955.chunk.js.map",
+    "index.html": "/dr830691/React-Challanges/tree/main/covi_tracker/index.html",
+    "static/css/main.405aff16.chunk.css.map": "/dr830691/React-Challanges/tree/main/covi_tracker/static/css/main.405aff16.chunk.css.map",
+    "static/js/2.9059bacd.chunk.js.LICENSE.txt": "/dr830691/React-Challanges/tree/main/covi_tracker/static/js/2.9059bacd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf82089b.js",
+    "static/js/2.9059bacd.chunk.js",
+    "static/css/main.405aff16.chunk.css",
+    "static/js/main.918eb837.chunk.js"
+  ]
+}
